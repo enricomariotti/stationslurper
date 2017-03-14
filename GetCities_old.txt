@@ -1,0 +1,2300 @@
+[
+    {
+        "Id": "A149",
+        "Name": "ALBEROBELLO",
+        "Stops": [
+            {
+                "Code": "340951",
+                "Description": "Alberobello-Via Cavour",
+                "Latitude": 40.7853,
+                "Longitude": 17.24056
+            }
+        ]
+    },
+    {
+        "Id": "A225",
+        "Name": "ALTAMURA",
+        "Stops": [
+            {
+                "Code": "340887",
+                "Description": "Altamura -Via Matera Ang. Via Treviso",
+                "Latitude": 40.81875,
+                "Longitude": 16.55394
+            },
+            {
+                "Code": "340965",
+                "Description": "Altamura-P.zza De Napoli",
+                "Latitude": 40.81909,
+                "Longitude": 16.55933
+            }
+        ]
+    },
+    {
+        "Id": "A271",
+        "Name": "ANCONA",
+        "Stops": [
+            {
+                "Code": "340869",
+                "Description": "Ancona-Piazza Rosselli Staz. FS",
+                "Latitude": 43.60733,
+                "Longitude": 13.49821
+            }
+        ]
+    },
+    {
+        "Id": "A285",
+        "Name": "ANDRIA",
+        "Stops": [
+            {
+                "Code": "340906",
+                "Description": "Andria-Via Ovidio ang.V.Vecchia Barletta",
+                "Latitude": 41.24126,
+                "Longitude": 16.29081
+            }
+        ]
+    },
+    {
+        "Id": "A390",
+        "Name": "AREZZO",
+        "Stops": [
+            {
+                "Code": "341040",
+                "Description": "Arezzo-Via Pier della Francesca",
+                "Latitude": 43.4622,
+                "Longitude": 11.87545
+            }
+        ]
+    },
+    {
+        "Id": "A463",
+        "Name": "ASCOLI SATRIANO",
+        "Stops": [
+            {
+                "Code": "341010",
+                "Description": "Ascoli Satriano-S.P. 99 Scalo Ferroviario",
+                "Latitude": 41.21943,
+                "Longitude": 15.54784
+            }
+        ]
+    },
+    {
+        "Id": "A475",
+        "Name": "ASSISI",
+        "Stops": [
+            {
+                "Code": "340907",
+                "Description": "Assisi-Piazza S.Pietro",
+                "Latitude": 43.07219,
+                "Longitude": 12.60723
+            },
+            {
+                "Code": "340993",
+                "Description": "Assisi S.Maria Degli Angeli-Stazione FS",
+                "Latitude": 43.05924,
+                "Longitude": 12.58564
+            }
+        ]
+    },
+    {
+        "Id": "DD28",
+        "Name": "AUGSBURG",
+        "Stops": [
+            {
+                "Code": "340992",
+                "Description": "Augsburg-P&R platz Oberhausen Nord",
+                "Latitude": 48.36418,
+                "Longitude": 10.88217
+            }
+        ]
+    },
+    {
+        "Id": "A514",
+        "Name": "AVETRANA",
+        "Stops": [
+            {
+                "Code": "340859",
+                "Description": "Avetrana-AGIP Via L. Da Vinci",
+                "Latitude": 40.35082,
+                "Longitude": 17.72306
+            }
+        ]
+    },
+    {
+        "Id": "A612",
+        "Name": "BANZI",
+        "Stops": [
+            {
+                "Code": "340986",
+                "Description": "Banzi-SP 6 Civ. N. 37",
+                "Latitude": 40.862,
+                "Longitude": 16.01288
+            }
+        ]
+    },
+    {
+        "Id": "A662",
+        "Name": "BARI",
+        "Stops": [
+            {
+                "Code": "340885",
+                "Description": "Bari-Largo Sorrentino",
+                "Latitude": 41.11706,
+                "Longitude": 16.86968
+            },
+            {
+                "Code": "341026",
+                "Description": "Bari-Via G. Capruzzi (fronte civ.204) ",
+                "Latitude": 41.11695,
+                "Longitude": 16.86847
+            },
+            {
+                "Code": "341047",
+                "Description": "Bari Porto-PORTO c/o B.Popolare Bari",
+                "Latitude": 41.13345,
+                "Longitude": 16.86931
+            }
+        ]
+    },
+    {
+        "Id": "A669",
+        "Name": "BARLETTA",
+        "Stops": [
+            {
+                "Code": "340932",
+                "Description": "Barletta-Via Andria  Caserma",
+                "Latitude": 41.30842,
+                "Longitude": 16.28937
+            }
+        ]
+    },
+    {
+        "Id": "CH01",
+        "Name": "BASILEA",
+        "Stops": [
+            {
+                "Code": "341027",
+                "Description": "Basilea-Badisch Bahnhof Mc Donald's ",
+                "Latitude": 47.56731,
+                "Longitude": 7.60621
+            }
+        ]
+    },
+    {
+        "Id": "A794",
+        "Name": "BERGAMO",
+        "Stops": [
+            {
+                "Code": "340944",
+                "Description": "Bergamo-Autostazione Via Bono",
+                "Latitude": 45.69307,
+                "Longitude": 9.67963
+            }
+        ]
+    },
+    {
+        "Id": "A809",
+        "Name": "BERTINORO",
+        "Stops": [
+            {
+                "Code": "340966",
+                "Description": "Forlì-A14 AdS Bevano OVEST dir BA",
+                "Latitude": 44.21635,
+                "Longitude": 12.17598
+            },
+            {
+                "Code": "341042",
+                "Description": "Forlì-A14 AdS Bevano EST dir BO",
+                "Latitude": 44.21747,
+                "Longitude": 12.1785
+            }
+        ]
+    },
+    {
+        "Id": "A883",
+        "Name": "BISCEGLIE",
+        "Stops": [
+            {
+                "Code": "341009",
+                "Description": "Bisceglie-Via  S. Chiara c/o Parco",
+                "Latitude": 41.22924,
+                "Longitude": 16.49619
+            }
+        ]
+    },
+    {
+        "Id": "A893",
+        "Name": "BITONTO",
+        "Stops": [
+            {
+                "Code": "340899",
+                "Description": "Bitonto-Str.P.le x Giovinazzo Dist. AGIP",
+                "Latitude": 41.1201,
+                "Longitude": 16.68865
+            }
+        ]
+    },
+    {
+        "Id": "A944",
+        "Name": "BOLOGNA",
+        "Stops": [
+            {
+                "Code": "340847",
+                "Description": "Bologna *Int_REGGIO EMILIA*-___",
+                "Latitude": 44.50388,
+                "Longitude": 11.34707
+            },
+            {
+                "Code": "340866",
+                "Description": "Bologna *Int_VICENZA*-___",
+                "Latitude": 44.50388,
+                "Longitude": 11.34707
+            },
+            {
+                "Code": "340941",
+                "Description": "Bologna  *Int_BERGAMO*-___",
+                "Latitude": 44.50388,
+                "Longitude": 11.34261
+            },
+            {
+                "Code": "340955",
+                "Description": "Bologna *Int_BOLZANO*-___",
+                "Latitude": 44.50388,
+                "Longitude": 11.34707
+            },
+            {
+                "Code": "340958",
+                "Description": "Bologna  *Int_GENOVA*-___",
+                "Latitude": 44.50388,
+                "Longitude": 11.34707
+            },
+            {
+                "Code": "340991",
+                "Description": "Bologna-Autostaz. c/o P.za XX Settembre",
+                "Latitude": 44.50388,
+                "Longitude": 11.34707
+            },
+            {
+                "Code": "341024",
+                "Description": "Bologna *Int_UDINE*-___",
+                "Latitude": 44.50388,
+                "Longitude": 11.34707
+            },
+            {
+                "Code": "341065",
+                "Description": "Bologna  *Int_PISA*-___",
+                "Latitude": 44.50388,
+                "Longitude": 11.34707
+            }
+        ]
+    },
+    {
+        "Id": "A952",
+        "Name": "BOLZANO",
+        "Stops": [
+            {
+                "Code": "341054",
+                "Description": "Bolzano-Via Alto Adige, 35",
+                "Latitude": 46.49601,
+                "Longitude": 11.35533
+            }
+        ]
+    },
+    {
+        "Id": "B157",
+        "Name": "BRESCIA",
+        "Stops": [
+            {
+                "Code": "340871",
+                "Description": "Brescia-Autost.Via Solferino",
+                "Latitude": 45.53247,
+                "Longitude": 10.21869
+            }
+        ]
+    },
+    {
+        "Id": "B180",
+        "Name": "BRINDISI",
+        "Stops": [
+            {
+                "Code": "341062",
+                "Description": "Brindisi-Via Galanti,1 c/o  Ist. Profess",
+                "Latitude": 40.62411,
+                "Longitude": 17.9297
+            }
+        ]
+    },
+    {
+        "Id": "B300",
+        "Name": "BUSTO ARSIZIO",
+        "Stops": [
+            {
+                "Code": "341017",
+                "Description": "Busto Arsizio-Stazione FS",
+                "Latitude": 45.6159,
+                "Longitude": 8.86453
+            }
+        ]
+    },
+    {
+        "Id": "B549",
+        "Name": "CAMPOMAGGIORE",
+        "Stops": [
+            {
+                "Code": "340972",
+                "Description": "Campomaggiore-Bivio SS 407 Basentana",
+                "Latitude": 40.54528,
+                "Longitude": 16.07533
+            }
+        ]
+    },
+    {
+        "Id": "B584",
+        "Name": "CANDELA",
+        "Stops": [
+            {
+                "Code": "340921",
+                "Description": "S. Nicola  *Int_PISTICCI*-___",
+                "Latitude": 41.1098,
+                "Longitude": 15.58643
+            },
+            {
+                "Code": "340964",
+                "Description": "Candela-S.S. 95 Distr. AGIP Casello A1",
+                "Latitude": 41.15006,
+                "Longitude": 15.52679
+            }
+        ]
+    },
+    {
+        "Id": "B619",
+        "Name": "CANOSA DI PUGLIA",
+        "Stops": [
+            {
+                "Code": "340898",
+                "Description": "Canosa di P.-V.le I° Maggio c/o Stadio ",
+                "Latitude": 41.21877,
+                "Longitude": 16.05608
+            }
+        ]
+    },
+    {
+        "Id": "B923",
+        "Name": "CASAMASSIMA",
+        "Stops": [
+            {
+                "Code": "340982",
+                "Description": "Casamassima-V Noicattaro 56 (bar Melior)",
+                "Latitude": 40.9614,
+                "Longitude": 16.92493
+            }
+        ]
+    },
+    {
+        "Id": "B936",
+        "Name": "CASARANO",
+        "Stops": [
+            {
+                "Code": "341012",
+                "Description": "Casarano-Via Matino Staz.Agip",
+                "Latitude": 40.01379,
+                "Longitude": 18.15841
+            }
+        ]
+    },
+    {
+        "Id": "C136",
+        "Name": "CASTELLANETA",
+        "Stops": [
+            {
+                "Code": "341058",
+                "Description": "Castellaneta-Via S. Francesco , 62",
+                "Latitude": 40.62983,
+                "Longitude": 16.931
+            }
+        ]
+    },
+    {
+        "Id": "C198",
+        "Name": "CASTELLUCCIO DE' SAURI",
+        "Stops": [
+            {
+                "Code": "340862",
+                "Description": "Castelluccio dei Sauri-Via Roma",
+                "Latitude": 41.30491,
+                "Longitude": 15.47835
+            }
+        ]
+    },
+    {
+        "Id": "C424",
+        "Name": "CEGLIE MESSAPICO",
+        "Stops": [
+            {
+                "Code": "341045",
+                "Description": "Ceglie Messapica-Stazione FS",
+                "Latitude": 40.64432,
+                "Longitude": 17.51778
+            }
+        ]
+    },
+    {
+        "Id": "C514",
+        "Name": "CERIGNOLA",
+        "Stops": [
+            {
+                "Code": "340857",
+                "Description": "Cerignola*Int_Diu_Irs_(TRN)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340858",
+                "Description": "Cerignola*Int_Diu_Mt_(x PR)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340864",
+                "Description": "Cerignola*Int_Gall_(LYN)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340867",
+                "Description": "Cerignola*Int_Diu_Irs_(MTC)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340882",
+                "Description": "Cerignola-Via Gen. Dalla Chiesa",
+                "Latitude": 41.26262,
+                "Longitude": 15.91259
+            },
+            {
+                "Code": "340893",
+                "Description": "Cerignola*Int_Mt*(x KLN)-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340897",
+                "Description": "Cerignola -Via Del Mandorlo c/o TAMOIL",
+                "Latitude": 41.26565,
+                "Longitude": 15.89391
+            },
+            {
+                "Code": "340913",
+                "Description": "Cerignola*Int_Diu_Nar_(X MTC)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340935",
+                "Description": "Cerignola*Int_Ginosa_(ARZ)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340936",
+                "Description": "Cerignola*Int_Diu_Nar_(TRN)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340939",
+                "Description": "Cerignola*Int_Diu_Ba_(MTC)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340949",
+                "Description": "Cerignola*Int_Mt_(LIEGI)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340952",
+                "Description": "Cerignola*Int_Diu_Mt_(MTC)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340961",
+                "Description": "Cerignola*Int_Diu_Irs_(PARMA)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340967",
+                "Description": "Cerignola*Int_Diu_Ba_(TORINO)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340976",
+                "Description": "Cerignola*Int_Sant_(SNG/LYO)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340981",
+                "Description": "Cerignola*Int_Nar_(LIEGI)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340989",
+                "Description": "Cerignola*Int_Napoli*-___",
+                "Latitude": 41.31998,
+                "Longitude": 15.88761
+            },
+            {
+                "Code": "340990",
+                "Description": "Cerignola*Int_Diu_Ba_(PRM)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "340998",
+                "Description": "Cerignola*Int_Mt_(SNG/LYN)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "341002",
+                "Description": "Cerignola*Int_Mt_(LYN)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "341006",
+                "Description": "Cerignola*Int_Sant_(x KLN)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "341025",
+                "Description": "Cerignola*Int_Ginosa_(x MLN)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "341028",
+                "Description": "Cerignola*Int_Casarano_(MLN)*-___",
+                "Latitude": 41.31004,
+                "Longitude": 15.89482
+            },
+            {
+                "Code": "341059",
+                "Description": "Cerignola-V.le di Levante,83 ",
+                "Latitude": 41.26055,
+                "Longitude": 15.90287
+            }
+        ]
+    },
+    {
+        "Id": "C633",
+        "Name": "CHIEUTI",
+        "Stops": [
+            {
+                "Code": "340928",
+                "Description": "Torre Fantine-A14  Torre F OVEST dir. BA",
+                "Latitude": 41.90851,
+                "Longitude": 15.16859
+            },
+            {
+                "Code": "340937",
+                "Description": "Torre Fantine-A14 Torre F. EST direz. BO",
+                "Latitude": 41.90944,
+                "Longitude": 15.16865
+            }
+        ]
+    },
+    {
+        "Id": "C750",
+        "Name": "CITTA' SANT'ANGELO",
+        "Stops": [
+            {
+                "Code": "341036",
+                "Description": "Pescara-Città S.AngeloVia Mulino del G.",
+                "Latitude": 42.52145,
+                "Longitude": 14.13896
+            }
+        ]
+    },
+    {
+        "Id": "C983",
+        "Name": "CORATO",
+        "Stops": [
+            {
+                "Code": "341038",
+                "Description": "Corato-Via Andria 90 c/o AGIP",
+                "Latitude": 41.15997,
+                "Longitude": 16.40062
+            }
+        ]
+    },
+    {
+        "Id": "D150",
+        "Name": "CREMONA",
+        "Stops": [
+            {
+                "Code": "341053",
+                "Description": "Cremona-Via Cappuccini, 2",
+                "Latitude": 45.13873,
+                "Longitude": 10.04175
+            }
+        ]
+    },
+    {
+        "Id": "DD29",
+        "Name": "DARMSTADT",
+        "Stops": [
+            {
+                "Code": "340979",
+                "Description": "Darmstadt-Staz.Centrale Zweifalltorweg",
+                "Latitude": 49.87282,
+                "Longitude": 8.65119
+            }
+        ]
+    },
+    {
+        "Id": "D403",
+        "Name": "EMPOLI",
+        "Stops": [
+            {
+                "Code": "340924",
+                "Description": "Empoli-P.zza Stazione Ag. Lazzi",
+                "Latitude": 43.71641,
+                "Longitude": 10.95028
+            }
+        ]
+    },
+    {
+        "Id": "FR10",
+        "Name": "ESCH SUR ALZETTE",
+        "Stops": [
+            {
+                "Code": "341008",
+                "Description": "Esch Sur Alzette -V. Aloyse Meyer (Acciaierie) ",
+                "Latitude": 49.50776,
+                "Longitude": 5.99223
+            }
+        ]
+    },
+    {
+        "Id": "D508",
+        "Name": "FASANO",
+        "Stops": [
+            {
+                "Code": "340994",
+                "Description": "Fasano-Via Astronauti c/o Rotonda",
+                "Latitude": 40.84096,
+                "Longitude": 17.35791
+            }
+        ]
+    },
+    {
+        "Id": "D547",
+        "Name": "FERRANDINA",
+        "Stops": [
+            {
+                "Code": "341001",
+                "Description": "Ferrandina Stazione-FS Hotel Old West",
+                "Latitude": 40.51646,
+                "Longitude": 16.47497
+            }
+        ]
+    },
+    {
+        "Id": "D548",
+        "Name": "FERRARA",
+        "Stops": [
+            {
+                "Code": "340875",
+                "Description": "Ferrara-Piazzale della Stazione FS",
+                "Latitude": 44.84271,
+                "Longitude": 11.60416
+            }
+        ]
+    },
+    {
+        "Id": "D593",
+        "Name": "FILIANO",
+        "Stops": [
+            {
+                "Code": "340970",
+                "Description": "Lagopesole-SS658 c/o Esso_FILIANO",
+                "Latitude": 40.81875,
+                "Longitude": 15.74282
+            }
+        ]
+    },
+    {
+        "Id": "D611",
+        "Name": "FIORENZUOLA D'ARDA",
+        "Stops": [
+            {
+                "Code": "340851",
+                "Description": "Fiorenzuola D'arda- A1 Arda OVEST dir BO",
+                "Latitude": 44.9621,
+                "Longitude": 9.9045
+            },
+            {
+                "Code": "340954",
+                "Description": "Fiorenzuola D'arda- A1  Arda EST dir MI",
+                "Latitude": 44.96286,
+                "Longitude": 9.90613
+            }
+        ]
+    },
+    {
+        "Id": "D612",
+        "Name": "FIRENZE",
+        "Stops": [
+            {
+                "Code": "340892",
+                "Description": "Firenze-P.le Montelungo uscita Bin.16",
+                "Latitude": 43.78096,
+                "Longitude": 11.24656
+            }
+        ]
+    },
+    {
+        "Id": "M297",
+        "Name": "FIUMICINO",
+        "Stops": [
+            {
+                "Code": "340865",
+                "Description": "Roma Fiumicino-Via Barracca (Terminal 3)",
+                "Latitude": 41.79462,
+                "Longitude": 12.2504
+            }
+        ]
+    },
+    {
+        "Id": "D643",
+        "Name": "FOGGIA",
+        "Stops": [
+            {
+                "Code": "340925",
+                "Description": "Foggia-Terminal Bus  c/o Stazione FS",
+                "Latitude": 41.46582,
+                "Longitude": 15.55354
+            },
+            {
+                "Code": "340980",
+                "Description": "Gargano  *Int_PISTICCI_(S/L)*-___",
+                "Latitude": 41.59141,
+                "Longitude": 15.50196
+            },
+            {
+                "Code": "341003",
+                "Description": "Gargano *Int_PISTICCI_(G/L)*-___",
+                "Latitude": 41.59146,
+                "Longitude": 15.50196
+            }
+        ]
+    },
+    {
+        "Id": "D653",
+        "Name": "FOLIGNO",
+        "Stops": [
+            {
+                "Code": "340985",
+                "Description": "Foligno-Stazione FS",
+                "Latitude": 42.95451,
+                "Longitude": 12.71021
+            }
+        ]
+    },
+    {
+        "Id": "D761",
+        "Name": "FRANCAVILLA FONTANA",
+        "Stops": [
+            {
+                "Code": "340988",
+                "Description": "Francavilla Fontana-Via x Grottaglie Distr.Buccarella",
+                "Latitude": 40.5294,
+                "Longitude": 17.57318
+            }
+        ]
+    },
+    {
+        "Id": "DD06",
+        "Name": "FRANKFURT",
+        "Stops": [
+            {
+                "Code": "340863",
+                "Description": "Frankfurt-Staz.Cent.lato sud Stuttgarter",
+                "Latitude": 50.11092,
+                "Longitude": 8.68212
+            }
+        ]
+    },
+    {
+        "Id": "D863",
+        "Name": "GALATONE",
+        "Stops": [
+            {
+                "Code": "340888",
+                "Description": "Galatone-Via Lecce ads Agip",
+                "Latitude": 40.15236,
+                "Longitude": 18.07183
+            }
+        ]
+    },
+    {
+        "Id": "D883",
+        "Name": "GALLIPOLI",
+        "Stops": [
+            {
+                "Code": "340904",
+                "Description": "Gallipoli-P.le Cimitero SS per Alezio",
+                "Latitude": 40.0551,
+                "Longitude": 17.99676
+            }
+        ]
+    },
+    {
+        "Id": "D909",
+        "Name": "GARAGUSO",
+        "Stops": [
+            {
+                "Code": "340973",
+                "Description": "Grassano Scalo-Stazione FS",
+                "Latitude": 40.59363,
+                "Longitude": 16.24122
+            }
+        ]
+    },
+    {
+        "Id": "D969",
+        "Name": "GENOVA",
+        "Stops": [
+            {
+                "Code": "340983",
+                "Description": "Genova-P.zza Vittoria",
+                "Latitude": 44.40365,
+                "Longitude": 8.94556
+            }
+        ]
+    },
+    {
+        "Id": "D971",
+        "Name": "GENZANO DI LUCANIA",
+        "Stops": [
+            {
+                "Code": "341044",
+                "Description": "Genzano di Lucania-C.Umberto Distr.API",
+                "Latitude": 40.84622,
+                "Longitude": 16.03046
+            }
+        ]
+    },
+    {
+        "Id": "E036",
+        "Name": "GINOSA",
+        "Stops": [
+            {
+                "Code": "340943",
+                "Description": "Ginosa-Via Tagliamento 15",
+                "Latitude": 40.57693,
+                "Longitude": 16.75608
+            }
+        ]
+    },
+    {
+        "Id": "E038",
+        "Name": "GIOIA DEL COLLE",
+        "Stops": [
+            {
+                "Code": "340852",
+                "Description": "Gioia Del Colle-Via F.Di Svevia Q8 usc.Gioia Nord",
+                "Latitude": 40.83385,
+                "Longitude": 16.93222
+            },
+            {
+                "Code": "340909",
+                "Description": "Gioia *Int_MONTESCAGLIOSO*-___",
+                "Latitude": 40.83385,
+                "Longitude": 16.93222
+            }
+        ]
+    },
+    {
+        "Id": "E155",
+        "Name": "GRAVINA IN PUGLIA",
+        "Stops": [
+            {
+                "Code": "341051",
+                "Description": "Gravina in Puglia-C.so Di Vittorio,  230",
+                "Latitude": 40.8275,
+                "Longitude": 16.42191
+            }
+        ]
+    },
+    {
+        "Id": "FR02",
+        "Name": "GRENOBLE",
+        "Stops": [
+            {
+                "Code": "340912",
+                "Description": "Grenoble-Place de la Gare c/o Hotel Terminus ",
+                "Latitude": 45.19108,
+                "Longitude": 5.71546
+            }
+        ]
+    },
+    {
+        "Id": "E205",
+        "Name": "GROTTAGLIE",
+        "Stops": [
+            {
+                "Code": "340923",
+                "Description": "Grottaglie-Piazzale Unicef",
+                "Latitude": 40.52895,
+                "Longitude": 17.4405
+            }
+        ]
+    },
+    {
+        "Id": "E326",
+        "Name": "IRSINA",
+        "Stops": [
+            {
+                "Code": "340895",
+                "Description": "Irsina-P.za A. Moro  Caserma CC",
+                "Latitude": 40.75138,
+                "Longitude": 16.23904
+            }
+        ]
+    },
+    {
+        "Id": "DD04",
+        "Name": "KARLSRUHE",
+        "Stops": [
+            {
+                "Code": "340914",
+                "Description": "Karlsruhe-dietro Staz. Centrale",
+                "Latitude": 48.99218,
+                "Longitude": 8.40165
+            }
+        ]
+    },
+    {
+        "Id": "DD07",
+        "Name": "KOLN",
+        "Stops": [
+            {
+                "Code": "340942",
+                "Description": "Köln-ZOB Flugh Köln/Bonn Bussteige 10",
+                "Latitude": 50.88126,
+                "Longitude": 7.11761
+            }
+        ]
+    },
+    {
+        "Id": "E463",
+        "Name": "LA SPEZIA",
+        "Stops": [
+            {
+                "Code": "340984",
+                "Description": "La Spezia-P.zza Chiodo",
+                "Latitude": 44.10201,
+                "Longitude": 9.8211
+            }
+        ]
+    },
+    {
+        "Id": "E469",
+        "Name": "LATERZA",
+        "Stops": [
+            {
+                "Code": "341011",
+                "Description": "Laterza-Via Matera ang.V.Europa",
+                "Latitude": 40.62786,
+                "Longitude": 16.79188
+            }
+        ]
+    },
+    {
+        "Id": "E493",
+        "Name": "LAVELLO",
+        "Stops": [
+            {
+                "Code": "340870",
+                "Description": "Lavello *Int_LIVORNO*-___",
+                "Latitude": 41.04822,
+                "Longitude": 15.78864
+            },
+            {
+                "Code": "340911",
+                "Description": "Lavello-Terminal bus S.S. 93",
+                "Latitude": 41.05173,
+                "Longitude": 15.79376
+            }
+        ]
+    },
+    {
+        "Id": "E506",
+        "Name": "LECCE",
+        "Stops": [
+            {
+                "Code": "340853",
+                "Description": "Lecce-Foro Boario c/o parcheggio bus",
+                "Latitude": 40.36281,
+                "Longitude": 18.1686
+            }
+        ]
+    },
+    {
+        "Id": "BEL3",
+        "Name": "LIEGI",
+        "Stops": [
+            {
+                "Code": "340997",
+                "Description": "Liegi-Staz. Guillemins Rue Varin 33-43 ",
+                "Latitude": 50.62404,
+                "Longitude": 5.56862
+            }
+        ]
+    },
+    {
+        "Id": "E625",
+        "Name": "LIVORNO",
+        "Stops": [
+            {
+                "Code": "340999",
+                "Description": "Livorno-P.zza Dante c/o  Stazione FS",
+                "Latitude": 43.55453,
+                "Longitude": 10.33513
+            }
+        ]
+    },
+    {
+        "Id": "E645",
+        "Name": "LOCOROTONDO",
+        "Stops": [
+            {
+                "Code": "341041",
+                "Description": "Locorotondo-V.Mad. Della Catena (Chiesa)",
+                "Latitude": 40.7557,
+                "Longitude": 17.31823
+            }
+        ]
+    },
+    {
+        "Id": "E716",
+        "Name": "LUCERA",
+        "Stops": [
+            {
+                "Code": "340956",
+                "Description": "Lucera-V.le Ferrovia  di fr. Stazione",
+                "Latitude": 41.5,
+                "Longitude": 15.33234
+            }
+        ]
+    },
+    {
+        "Id": "CH69",
+        "Name": "LUGANO",
+        "Stops": [
+            {
+                "Code": "341014",
+                "Description": "Lugano-Stazione Bus ",
+                "Latitude": 46.00666,
+                "Longitude": 8.94558
+            }
+        ]
+    },
+    {
+        "Id": "LU01",
+        "Name": "LUXEMBURG",
+        "Stops": [
+            {
+                "Code": "340854",
+                "Description": "Luxemburg-Park & Ride Gasperich ",
+                "Latitude": 49.57888,
+                "Longitude": 6.12776
+            }
+        ]
+    },
+    {
+        "Id": "CH03",
+        "Name": "LUZERN",
+        "Stops": [
+            {
+                "Code": "340889",
+                "Description": "Lucerna-Inselipark Uff. Postale ",
+                "Latitude": 47.04875,
+                "Longitude": 8.31415
+            }
+        ]
+    },
+    {
+        "Id": "FR13",
+        "Name": "LYON",
+        "Stops": [
+            {
+                "Code": "340996",
+                "Description": "Lyon-Gare Perrache Cour Verdun ",
+                "Latitude": 45.74893,
+                "Longitude": 4.82661
+            }
+        ]
+    },
+    {
+        "Id": "E815",
+        "Name": "MAGLIE",
+        "Stops": [
+            {
+                "Code": "341063",
+                "Description": "Maglie-Via F.lli Piccinno,35",
+                "Latitude": 40.13123,
+                "Longitude": 18.29318
+            }
+        ]
+    },
+    {
+        "Id": "E863",
+        "Name": "MALNATE",
+        "Stops": [
+            {
+                "Code": "340868",
+                "Description": "Malnate-Stazione FS",
+                "Latitude": 45.79553,
+                "Longitude": 8.87833
+            }
+        ]
+    },
+    {
+        "Id": "E882",
+        "Name": "MANDURIA",
+        "Stops": [
+            {
+                "Code": "340894",
+                "Description": "Manduria-Via S. Antonio c/o Chiesa",
+                "Latitude": 40.40676,
+                "Longitude": 17.64228
+            }
+        ]
+    },
+    {
+        "Id": "E885",
+        "Name": "MANFREDONIA",
+        "Stops": [
+            {
+                "Code": "340873",
+                "Description": "Manfredonia-Piazza Marconi/V.le A.Moro",
+                "Latitude": 41.62656,
+                "Longitude": 15.91345
+            }
+        ]
+    },
+    {
+        "Id": "DD35",
+        "Name": "MANNHEIM",
+        "Stops": [
+            {
+                "Code": "341007",
+                "Description": "Mannheim-Heinrich von Stephan Str. ZOB",
+                "Latitude": 49.47832,
+                "Longitude": 8.4727
+            }
+        ]
+    },
+    {
+        "Id": "E897",
+        "Name": "MANTOVA",
+        "Stops": [
+            {
+                "Code": "340940",
+                "Description": "Mantova-Via Bettinelli",
+                "Latitude": 45.15767,
+                "Longitude": 10.7824
+            }
+        ]
+    },
+    {
+        "Id": "E946",
+        "Name": "MARGHERITA DI SAVOIA",
+        "Stops": [
+            {
+                "Code": "340872",
+                "Description": "Margherita Di Savoia-Pza Dalla Chiesa",
+                "Latitude": 41.37374,
+                "Longitude": 16.15071
+            }
+        ]
+    },
+    {
+        "Id": "E986",
+        "Name": "MARTINA FRANCA",
+        "Stops": [
+            {
+                "Code": "340971",
+                "Description": "Martina Franca-V.le Europa c/o Ospedale",
+                "Latitude": 40.70566,
+                "Longitude": 17.34223
+            }
+        ]
+    },
+    {
+        "Id": "F027",
+        "Name": "MASSAFRA",
+        "Stops": [
+            {
+                "Code": "340995",
+                "Description": "Massafra-Via Magna Grecia c/o Agip",
+                "Latitude": 40.58041,
+                "Longitude": 17.12258
+            }
+        ]
+    },
+    {
+        "Id": "F052",
+        "Name": "MATERA",
+        "Stops": [
+            {
+                "Code": "340938",
+                "Description": "Matera-Via Don L.Sturzo Chiesa S.Paolo",
+                "Latitude": 40.67715,
+                "Longitude": 16.59021
+            }
+        ]
+    },
+    {
+        "Id": "F104",
+        "Name": "MELFI",
+        "Stops": [
+            {
+                "Code": "341046",
+                "Description": "Melfi-Stazione FS",
+                "Latitude": 40.99,
+                "Longitude": 15.64741
+            }
+        ]
+    },
+    {
+        "Id": "FR16",
+        "Name": "METZ",
+        "Stops": [
+            {
+                "Code": "341043",
+                "Description": "Metz-Boulevard Poincarè",
+                "Latitude": 49.11683,
+                "Longitude": 6.16881
+            }
+        ]
+    },
+    {
+        "Id": "F205",
+        "Name": "MILANO",
+        "Stops": [
+            {
+                "Code": "340883",
+                "Description": "Milano Rogoredo-Via Cassinis c/o Stazione Rogoredo ",
+                "Latitude": 45.43383,
+                "Longitude": 9.23721
+            },
+            {
+                "Code": "340953",
+                "Description": "Milano Lambrate-Via Predil Staz.Lambrate",
+                "Latitude": 45.48495,
+                "Longitude": 9.2384
+            },
+            {
+                "Code": "341048",
+                "Description": "Milano  *Int_MALNATE*-___",
+                "Latitude": 45.50455,
+                "Longitude": 9.094
+            },
+            {
+                "Code": "341064",
+                "Description": "Milano Lampugnano-Via G. Natta  Autostazione",
+                "Latitude": 45.48928,
+                "Longitude": 9.12744
+            }
+        ]
+    },
+    {
+        "Id": "F220",
+        "Name": "MINERVINO MURGE",
+        "Stops": [
+            {
+                "Code": "341035",
+                "Description": "Minervino Murge-Largo Stazione",
+                "Latitude": 41.08179,
+                "Longitude": 16.07532
+            }
+        ]
+    },
+    {
+        "Id": "F257",
+        "Name": "MODENA",
+        "Stops": [
+            {
+                "Code": "340927",
+                "Description": "Modena Stazione-P.zza Dante c/o Staz.FS ",
+                "Latitude": 44.65398,
+                "Longitude": 10.9306
+            },
+            {
+                "Code": "340950",
+                "Description": "Modena Gottardi-Terminal  Via Gottardi",
+                "Latitude": 44.63063,
+                "Longitude": 10.95031
+            }
+        ]
+    },
+    {
+        "Id": "F262",
+        "Name": "MODUGNO",
+        "Stops": [
+            {
+                "Code": "341029",
+                "Description": "Modugno-Via Marzi  Camping Levante",
+                "Latitude": 41.08728,
+                "Longitude": 16.77686
+            }
+        ]
+    },
+    {
+        "Id": "F280",
+        "Name": "MOLA DI BARI",
+        "Stops": [
+            {
+                "Code": "340977",
+                "Description": "Mola Di Bari-Via S. Sabino dietro Staz.",
+                "Latitude": 41.05726,
+                "Longitude": 17.08045
+            }
+        ]
+    },
+    {
+        "Id": "F284",
+        "Name": "MOLFETTA",
+        "Stops": [
+            {
+                "Code": "340931",
+                "Description": "Molfetta-Via Martiri di Via Fani 1/a",
+                "Latitude": 41.1928,
+                "Longitude": 16.59105
+            }
+        ]
+    },
+    {
+        "Id": "F376",
+        "Name": "MONOPOLI",
+        "Stops": [
+            {
+                "Code": "340959",
+                "Description": "Monopoli-Via Lagravinese Chiesa S. Anna",
+                "Latitude": 40.94862,
+                "Longitude": 17.28918
+            }
+        ]
+    },
+    {
+        "Id": "F568",
+        "Name": "MONTEMILONE",
+        "Stops": [
+            {
+                "Code": "340902",
+                "Description": "Montemilone-Consorzio Agrario",
+                "Latitude": 41.02797,
+                "Longitude": 15.96725
+            }
+        ]
+    },
+    {
+        "Id": "F576",
+        "Name": "MONTENERO DI BISACCIA",
+        "Stops": [
+            {
+                "Code": "340969",
+                "Description": "Trigno-AdS A14_Trigno OVEST direz. BA",
+                "Latitude": 42.04679,
+                "Longitude": 14.81313
+            },
+            {
+                "Code": "340978",
+                "Description": "Trigno- AdS A14_Trigno EST direz. BO",
+                "Latitude": 42.04779,
+                "Longitude": 14.81439
+            },
+            {
+                "Code": "341015",
+                "Description": "Trigno *Int. Stornara*-___",
+                "Latitude": 42.05576,
+                "Longitude": 14.79462
+            }
+        ]
+    },
+    {
+        "Id": "F637",
+        "Name": "MONTESCAGLIOSO",
+        "Stops": [
+            {
+                "Code": "341019",
+                "Description": "Montescaglioso-Via Moro Di fronte nÂ°40",
+                "Latitude": 40.55036,
+                "Longitude": 16.66555
+            }
+        ]
+    },
+    {
+        "Id": "F784",
+        "Name": "MOTTOLA",
+        "Stops": [
+            {
+                "Code": "340860",
+                "Description": "Mottola-Viale Jonio",
+                "Latitude": 40.6392,
+                "Longitude": 17.03866
+            }
+        ]
+    },
+    {
+        "Id": "DD01",
+        "Name": "MUNCHEN",
+        "Stops": [
+            {
+                "Code": "341052",
+                "Description": "Munchen-Goeppert Mayer Straße,Frottmain",
+                "Latitude": 48.21056,
+                "Longitude": 11.6185
+            }
+        ]
+    },
+    {
+        "Id": "F839",
+        "Name": "NAPOLI",
+        "Stops": [
+            {
+                "Code": "340946",
+                "Description": "Napoli-Metropark Staz.FS Terminalbus",
+                "Latitude": 40.85076,
+                "Longitude": 14.27266
+            }
+        ]
+    },
+    {
+        "Id": "F842",
+        "Name": "NARDO'",
+        "Stops": [
+            {
+                "Code": "340957",
+                "Description": "Boncore-Fraz.Nardò via M.T. di Calcutta",
+                "Latitude": 40.29534,
+                "Longitude": 17.85898
+            },
+            {
+                "Code": "341060",
+                "Description": "Nardo'-Via XXV Luglio , 7",
+                "Latitude": 40.17471,
+                "Longitude": 18.03246
+            }
+        ]
+    },
+    {
+        "Id": "F915",
+        "Name": "NOCI",
+        "Stops": [
+            {
+                "Code": "340948",
+                "Description": "Noci-Villa comunale (di fronte orologio)",
+                "Latitude": 40.79805,
+                "Longitude": 17.11996
+            }
+        ]
+    },
+    {
+        "Id": "F952",
+        "Name": "NOVARA",
+        "Stops": [
+            {
+                "Code": "340919",
+                "Description": "Novara-NOVARA OVEST Pensilina  A4 dir TO",
+                "Latitude": 45.47434,
+                "Longitude": 8.5652
+            },
+            {
+                "Code": "341032",
+                "Description": "Novara-Novara OVEST Pensilina  A4 dir MI",
+                "Latitude": 45.47383,
+                "Longitude": 8.56527
+            }
+        ]
+    },
+    {
+        "Id": "F978",
+        "Name": "NUMANA",
+        "Stops": [
+            {
+                "Code": "340879",
+                "Description": "Conero *Int_Urbino_(MAT/BARI)*-___",
+                "Latitude": 43.47924,
+                "Longitude": 13.59823
+            }
+        ]
+    },
+    {
+        "Id": "CH04",
+        "Name": "OLTEN",
+        "Stops": [
+            {
+                "Code": "340922",
+                "Description": "Olten-Stazione Bus ",
+                "Latitude": 47.35283,
+                "Longitude": 7.90711
+            }
+        ]
+    },
+    {
+        "Id": "M266",
+        "Name": "ORDONA",
+        "Stops": [
+            {
+                "Code": "341020",
+                "Description": "Ordona-Stazione FS",
+                "Latitude": 41.31487,
+                "Longitude": 15.62094
+            }
+        ]
+    },
+    {
+        "Id": "G131",
+        "Name": "ORTA NOVA",
+        "Stops": [
+            {
+                "Code": "341023",
+                "Description": "Orta Nova-Via Stornara n.24",
+                "Latitude": 41.32535,
+                "Longitude": 15.71109
+            }
+        ]
+    },
+    {
+        "Id": "G187",
+        "Name": "OSTUNI",
+        "Stops": [
+            {
+                "Code": "340896",
+                "Description": "Rosa Marina-SS 379 c/o Q8 (Direz. Bari)",
+                "Latitude": 40.79175,
+                "Longitude": 17.56428
+            },
+            {
+                "Code": "340945",
+                "Description": "Rosa Marina-SS 379 c/o ERG (Direz. BR)",
+                "Latitude": 40.79466,
+                "Longitude": 17.54904
+            }
+        ]
+    },
+    {
+        "Id": "G224",
+        "Name": "PADOVA",
+        "Stops": [
+            {
+                "Code": "340876",
+                "Description": "Padova- V.le della Pace c/o Aut. Stallo 12",
+                "Latitude": 45.41648,
+                "Longitude": 11.8837
+            }
+        ]
+    },
+    {
+        "Id": "G261",
+        "Name": "PALAZZO SAN GERVASIO",
+        "Stops": [
+            {
+                "Code": "340903",
+                "Description": "Palazzo San Gervasio-Via Roma Scuola D.Bosco",
+                "Latitude": 40.93122,
+                "Longitude": 15.97938
+            }
+        ]
+    },
+    {
+        "Id": "G337",
+        "Name": "PARMA",
+        "Stops": [
+            {
+                "Code": "341030",
+                "Description": "Parma-Viale Toschi n.2",
+                "Latitude": 44.80599,
+                "Longitude": 10.32561
+            }
+        ]
+    },
+    {
+        "Id": "G478",
+        "Name": "PERUGIA",
+        "Stops": [
+            {
+                "Code": "341037",
+                "Description": "Perugia-Autostazione Piazza Partigiani",
+                "Latitude": 43.10576,
+                "Longitude": 12.38773
+            }
+        ]
+    },
+    {
+        "Id": "G479",
+        "Name": "PESARO",
+        "Stops": [
+            {
+                "Code": "341049",
+                "Description": "Pesaro-Staz.FS P.le Falcone/Borsellino",
+                "Latitude": 43.90678,
+                "Longitude": 12.90379
+            }
+        ]
+    },
+    {
+        "Id": "G702",
+        "Name": "PISA",
+        "Stops": [
+            {
+                "Code": "341066",
+                "Description": "Pisa- Pietrasantina_Autostazione",
+                "Latitude": 43.7295,
+                "Longitude": 10.39109
+            }
+        ]
+    },
+    {
+        "Id": "G712",
+        "Name": "PISTICCI",
+        "Stops": [
+            {
+                "Code": "340891",
+                "Description": "Pisticci-Scalo Ferroviario",
+                "Latitude": 40.42063,
+                "Longitude": 16.55207
+            }
+        ]
+    },
+    {
+        "Id": "G769",
+        "Name": "POGGIORSINI",
+        "Stops": [
+            {
+                "Code": "340910",
+                "Description": "Poggiorsini-Staz. Serv. API",
+                "Latitude": 40.93433,
+                "Longitude": 16.26697
+            }
+        ]
+    },
+    {
+        "Id": "G787",
+        "Name": "POLIGNANO A MARE",
+        "Stops": [
+            {
+                "Code": "340934",
+                "Description": "Polignano-Via G. Deledda c/o Pensilina",
+                "Latitude": 40.99111,
+                "Longitude": 17.21698
+            }
+        ]
+    },
+    {
+        "Id": "G888",
+        "Name": "PORDENONE",
+        "Stops": [
+            {
+                "Code": "340929",
+                "Description": "Pordenone-Via Oberdan_ stallo 1",
+                "Latitude": 45.95748,
+                "Longitude": 12.65363
+            }
+        ]
+    },
+    {
+        "Id": "G919",
+        "Name": "PORTO RECANATI",
+        "Stops": [
+            {
+                "Code": "340881",
+                "Description": "Conero *Int_Urbino_(NAR/IRS)*-___",
+                "Latitude": 43.46085,
+                "Longitude": 13.61716
+            }
+        ]
+    },
+    {
+        "Id": "G942",
+        "Name": "POTENZA",
+        "Stops": [
+            {
+                "Code": "340901",
+                "Description": "Potenza-Terminal Bus Viale del Basento",
+                "Latitude": 40.62915,
+                "Longitude": 15.80713
+            }
+        ]
+    },
+    {
+        "Id": "H096",
+        "Name": "PUTIGNANO",
+        "Stops": [
+            {
+                "Code": "341005",
+                "Description": "Putignano-Via Cappuccini front B.ca Roma",
+                "Latitude": 40.8499,
+                "Longitude": 17.11991
+            }
+        ]
+    },
+    {
+        "Id": "H223",
+        "Name": "REGGIO EMILIA",
+        "Stops": [
+            {
+                "Code": "341018",
+                "Description": "Reggio Emilia-Autostaz. P.le Europa",
+                "Latitude": 44.69929,
+                "Longitude": 10.64289
+            }
+        ]
+    },
+    {
+        "Id": "H294",
+        "Name": "RIMINI",
+        "Stops": [
+            {
+                "Code": "340918",
+                "Description": "Rimini-Via Fada Centro Studi",
+                "Latitude": 44.05017,
+                "Longitude": 12.58253
+            }
+        ]
+    },
+    {
+        "Id": "H307",
+        "Name": "RIONERO IN VULTURE",
+        "Stops": [
+            {
+                "Code": "340916",
+                "Description": "Rionero in Vulture-Stazione FS",
+                "Latitude": 40.92226,
+                "Longitude": 15.67813
+            }
+        ]
+    },
+    {
+        "Id": "H501",
+        "Name": "ROMA",
+        "Stops": [
+            {
+                "Code": "340975",
+                "Description": "Roma-Largo Mazzoni ( Autostaz.Tiburtina)",
+                "Latitude": 41.90931,
+                "Longitude": 12.52841
+            }
+        ]
+    },
+    {
+        "Id": "H620",
+        "Name": "ROVIGO",
+        "Stops": [
+            {
+                "Code": "341061",
+                "Description": "Rovigo-P.za Riconoscenza,5  c/o Stazione",
+                "Latitude": 45.07668,
+                "Longitude": 11.78206
+            }
+        ]
+    },
+    {
+        "Id": "H645",
+        "Name": "RUVO DI PUGLIA",
+        "Stops": [
+            {
+                "Code": "341050",
+                "Description": "Ruvo Di Puglia-Via De Filippo 2",
+                "Latitude": 41.11523,
+                "Longitude": 16.49269
+            }
+        ]
+    },
+    {
+        "Id": "H687",
+        "Name": "SALANDRA",
+        "Stops": [
+            {
+                "Code": "340905",
+                "Description": "Salandra-Scalo Ferroviario Loc.Pantano",
+                "Latitude": 40.58304,
+                "Longitude": 16.35224
+            }
+        ]
+    },
+    {
+        "Id": "H839",
+        "Name": "SAN FERDINANDO DI PUGLIA",
+        "Stops": [
+            {
+                "Code": "340947",
+                "Description": "San Ferdinando di Puglia-Pza C.A.Dalla Chiesa c/o CC",
+                "Latitude": 41.30452,
+                "Longitude": 16.07424
+            }
+        ]
+    },
+    {
+        "Id": "H926",
+        "Name": "SAN GIOVANNI ROTONDO",
+        "Stops": [
+            {
+                "Code": "340884",
+                "Description": "San Giovanni Rotondo-Piazza Europa",
+                "Latitude": 41.70717,
+                "Longitude": 15.72452
+            },
+            {
+                "Code": "341021",
+                "Description": "San Giovanni Rotondo-P.le Forgione",
+                "Latitude": 41.70783,
+                "Longitude": 15.70763
+            }
+        ]
+    },
+    {
+        "Id": "I072",
+        "Name": "SAN PAOLO DI CIVITATE",
+        "Stops": [
+            {
+                "Code": "340920",
+                "Description": "San Paolo Di Civitate-Largo Municipio",
+                "Latitude": 41.74028,
+                "Longitude": 15.25954
+            }
+        ]
+    },
+    {
+        "Id": "I158",
+        "Name": "SAN SEVERO",
+        "Stops": [
+            {
+                "Code": "340933",
+                "Description": "San Severo-Stazione FS",
+                "Latitude": 41.6848,
+                "Longitude": 15.39176
+            }
+        ]
+    },
+    {
+        "Id": "I382",
+        "Name": "SAN VENDEMIANO",
+        "Stops": [
+            {
+                "Code": "341039",
+                "Description": "Conegliano-Uscita A27 c/o Pizz. Nettuno",
+                "Latitude": 45.87643,
+                "Longitude": 12.33921
+            }
+        ]
+    },
+    {
+        "Id": "I330",
+        "Name": "SANTERAMO IN COLLE",
+        "Stops": [
+            {
+                "Code": "340963",
+                "Description": "Santeramo In Colle-c/o Agip via Gioia",
+                "Latitude": 40.79303,
+                "Longitude": 16.7771
+            }
+        ]
+    },
+    {
+        "Id": "I462",
+        "Name": "SASSUOLO",
+        "Stops": [
+            {
+                "Code": "340848",
+                "Description": "Sassuolo-Via Marconi c/o UNICREDIT",
+                "Latitude": 44.54454,
+                "Longitude": 10.78534
+            }
+        ]
+    },
+    {
+        "Id": "I641",
+        "Name": "SERRACAPRIOLA",
+        "Stops": [
+            {
+                "Code": "340962",
+                "Description": "Serracapriola-Corso Garibaldi",
+                "Latitude": 41.80568,
+                "Longitude": 15.15908
+            }
+        ]
+    },
+    {
+        "Id": "I726",
+        "Name": "SIENA",
+        "Stops": [
+            {
+                "Code": "341055",
+                "Description": "Siena-Stazione FS, p. Rosselli",
+                "Latitude": 43.33126,
+                "Longitude": 11.32181
+            }
+        ]
+    },
+    {
+        "Id": "DD36",
+        "Name": "SINGEN",
+        "Stops": [
+            {
+                "Code": "341022",
+                "Description": "Singen-Strada x Radolfzeller c/o Stadio ",
+                "Latitude": 47.76461,
+                "Longitude": 8.85198
+            }
+        ]
+    },
+    {
+        "Id": "I907",
+        "Name": "SPINAZZOLA",
+        "Stops": [
+            {
+                "Code": "340861",
+                "Description": "Spinazzola-Piazza Plebiscito",
+                "Latitude": 40.969,
+                "Longitude": 16.08782
+            }
+        ]
+    },
+    {
+        "Id": "I921",
+        "Name": "SPOLETO",
+        "Stops": [
+            {
+                "Code": "340930",
+                "Description": "Spoleto-V.le Matteotti Usc. Spoleto Sud",
+                "Latitude": 42.74031,
+                "Longitude": 12.73763
+            }
+        ]
+    },
+    {
+        "Id": "I962",
+        "Name": "STORNARA",
+        "Stops": [
+            {
+                "Code": "340878",
+                "Description": "Stornara-S.P.88 Ang. Via G.Oberdan",
+                "Latitude": 41.2878,
+                "Longitude": 15.7717
+            }
+        ]
+    },
+    {
+        "Id": "DD03",
+        "Name": "STUTTGART",
+        "Stops": [
+            {
+                "Code": "341004",
+                "Description": "Stuttgart-Airport Busterminal SAB P14",
+                "Latitude": 48.77584,
+                "Longitude": 9.18293
+            }
+        ]
+    },
+    {
+        "Id": "L049",
+        "Name": "TARANTO",
+        "Stops": [
+            {
+                "Code": "340849",
+                "Description": "Taranto-Porto Mercantile",
+                "Latitude": 40.4811,
+                "Longitude": 17.22405
+            }
+        ]
+    },
+    {
+        "Id": "L109",
+        "Name": "TERLIZZI",
+        "Stops": [
+            {
+                "Code": "341016",
+                "Description": "Terlizzi-Corso Garibaldi",
+                "Latitude": 41.13069,
+                "Longitude": 16.54067
+            }
+        ]
+    },
+    {
+        "Id": "L219",
+        "Name": "TORINO",
+        "Stops": [
+            {
+                "Code": "341034",
+                "Description": "Torino-C.so G.Cesare c/o Park Stura",
+                "Latitude": 45.12016,
+                "Longitude": 7.71098
+            },
+            {
+                "Code": "341056",
+                "Description": "Torino -C. so Vittorio Emanuele ,131",
+                "Latitude": 45.06987,
+                "Longitude": 7.65771
+            }
+        ]
+    },
+    {
+        "Id": "L273",
+        "Name": "TORREMAGGIORE",
+        "Stops": [
+            {
+                "Code": "341057",
+                "Description": "Torremaggiore-Via Lamedica, 32",
+                "Latitude": 41.68917,
+                "Longitude": 15.30325
+            }
+        ]
+    },
+    {
+        "Id": "L307",
+        "Name": "TORTORETO",
+        "Stops": [
+            {
+                "Code": "340877",
+                "Description": "Tortoreto-A/14 Tortoreto EST direz. BO",
+                "Latitude": 42.80415,
+                "Longitude": 13.92903
+            },
+            {
+                "Code": "340890",
+                "Description": "Tortoreto-A/14 Tortoreto OVEST direz. BA",
+                "Latitude": 42.806,
+                "Longitude": 13.92682
+            }
+        ]
+    },
+    {
+        "Id": "L328",
+        "Name": "TRANI",
+        "Stops": [
+            {
+                "Code": "340960",
+                "Description": "Trani Caserma-Via A. di Francia CASERMA",
+                "Latitude": 41.26355,
+                "Longitude": 16.41987
+            },
+            {
+                "Code": "341013",
+                "Description": "Trani -Via Superga c/o Campo Sportivo",
+                "Latitude": 41.26713,
+                "Longitude": 16.4181
+            }
+        ]
+    },
+    {
+        "Id": "L378",
+        "Name": "TRENTO",
+        "Stops": [
+            {
+                "Code": "340974",
+                "Description": "Trento-Via Lungadige Monte Grappa c/o Staz. BUS",
+                "Latitude": 46.06883,
+                "Longitude": 11.11548
+            }
+        ]
+    },
+    {
+        "Id": "L407",
+        "Name": "TREVISO",
+        "Stops": [
+            {
+                "Code": "340855",
+                "Description": "Treviso-V.Roma P.le Duca Dâ€™Aosta Fer.bus",
+                "Latitude": 45.66118,
+                "Longitude": 12.24563
+            }
+        ]
+    },
+    {
+        "Id": "B915",
+        "Name": "TRINITAPOLI",
+        "Stops": [
+            {
+                "Code": "341031",
+                "Description": "Trinitapoli-Via Kennedy Ang. Via Francia",
+                "Latitude": 41.35267,
+                "Longitude": 16.09618
+            }
+        ]
+    },
+    {
+        "Id": "L447",
+        "Name": "TROIA",
+        "Stops": [
+            {
+                "Code": "340915",
+                "Description": "Troia-Viale Kennedy 11 Park",
+                "Latitude": 41.36453,
+                "Longitude": 15.31601
+            }
+        ]
+    },
+    {
+        "Id": "L472",
+        "Name": "TURI",
+        "Stops": [
+            {
+                "Code": "340917",
+                "Description": "Turi-Largo Marchesale",
+                "Latitude": 40.91703,
+                "Longitude": 17.02302
+            }
+        ]
+    },
+    {
+        "Id": "L483",
+        "Name": "UDINE",
+        "Stops": [
+            {
+                "Code": "340850",
+                "Description": "Udine-Autostazione",
+                "Latitude": 46.05721,
+                "Longitude": 13.24277
+            }
+        ]
+    },
+    {
+        "Id": "DD02",
+        "Name": "ULM",
+        "Stops": [
+            {
+                "Code": "341033",
+                "Description": "Ulm-BÖFINGEN_Zob EberhardtFinckhStr.",
+                "Latitude": 48.42568,
+                "Longitude": 10.0108
+            }
+        ]
+    },
+    {
+        "Id": "L500",
+        "Name": "URBINO",
+        "Stops": [
+            {
+                "Code": "340856",
+                "Description": "Urbino-P.le Mercatale F.ta Autolinee",
+                "Latitude": 43.72396,
+                "Longitude": 12.63524
+            }
+        ]
+    },
+    {
+        "Id": "L682",
+        "Name": "VARESE",
+        "Stops": [
+            {
+                "Code": "340880",
+                "Description": "Varese-P.zza Trieste c/o Stazione FS",
+                "Latitude": 45.81609,
+                "Longitude": 8.83263
+            }
+        ]
+    },
+    {
+        "Id": "L736",
+        "Name": "VENEZIA",
+        "Stops": [
+            {
+                "Code": "340926",
+                "Description": "Mestre-V.le Stazione 6 Fronte Touring",
+                "Latitude": 45.48175,
+                "Longitude": 12.23483
+            }
+        ]
+    },
+    {
+        "Id": "L738",
+        "Name": "VENOSA",
+        "Stops": [
+            {
+                "Code": "340968",
+                "Description": "Venosa-Via Diaz c/o Pensiline",
+                "Latitude": 40.96001,
+                "Longitude": 15.81573
+            }
+        ]
+    },
+    {
+        "Id": "L781",
+        "Name": "VERONA",
+        "Stops": [
+            {
+                "Code": "340846",
+                "Description": "Verona-V.le G.Cardinale ang. A. Palladio",
+                "Latitude": 45.43146,
+                "Longitude": 10.98106
+            }
+        ]
+    },
+    {
+        "Id": "L840",
+        "Name": "VICENZA",
+        "Stops": [
+            {
+                "Code": "340886",
+                "Description": "Vicenza-V.le Milano  c/o Autostazione",
+                "Latitude": 45.54233,
+                "Longitude": 11.5357
+            }
+        ]
+    },
+    {
+        "Id": "M003",
+        "Name": "VILLARBOIT",
+        "Stops": [
+            {
+                "Code": "340874",
+                "Description": "Villarboit Nord-Ads  A/4 direzione Torino",
+                "Latitude": 45.45738,
+                "Longitude": 8.34642
+            },
+            {
+                "Code": "340908",
+                "Description": "Villarboit Sud-Ads  A/4 direzione Milano",
+                "Latitude": 45.45493,
+                "Longitude": 8.3463
+            }
+        ]
+    },
+    {
+        "Id": "CH06",
+        "Name": "WINTERTHUR",
+        "Stops": [
+            {
+                "Code": "341000",
+                "Description": "Winterthur-Autosilo ARCH ",
+                "Latitude": 47.49776,
+                "Longitude": 8.72271
+            }
+        ]
+    },
+    {
+        "Id": "CH07",
+        "Name": "ZURIGO",
+        "Stops": [
+            {
+                "Code": "340900",
+                "Description": "Zurigo-Stazione Bus ",
+                "Latitude": 47.38063,
+                "Longitude": 8.53751
+            }
+        ]
+    }
+]

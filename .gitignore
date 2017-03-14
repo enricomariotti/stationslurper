@@ -1,0 +1,9 @@
+.profile
+.project
+.settings
+.gradle
+.classpath
+.DS_Store
+out
+*.iml
+.idea/
